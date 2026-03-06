@@ -5,7 +5,7 @@
             "name": "GDB: Debug",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/shell",
+            "program": "${workspaceFolder}/build/shell",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
